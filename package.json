@@ -1,0 +1,21 @@
+{
+  "name": "synced-object-store",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kumavis/synced-object-store.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kumavis",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "extend": "~1.2.1",
+    "set-get-wrapper": "~0.1.0",
+    "weak-map": "~1.0.2",
+    "crdt": "~3.5.0"
+  }
+}
