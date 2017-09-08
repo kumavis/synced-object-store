@@ -1,4 +1,6 @@
 # synced-object-store
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/synced-object-store.svg)](https://greenkeeper.io/)
   
 I put this together as a fun hack to experiment on top of the [Scuttlebutt family](https://github.com/dominictarr/scuttlebutt).
 It attempts to sync javascript objects across a distributed system, with object references intact.
